@@ -1,0 +1,13 @@
+swarm:
+    security:
+        security-domains:
+            company-sd:
+                jaspi-authentication:
+                    auth-modules:
+                        company-auth:
+                            code: com.company.security.auth.CompanyServerAuthModule
+                            flag: required
+                            module: com.company.sam
+                            module-options:
+                                algorithm: RSA
+                                public.key: blahblahblahblahblah

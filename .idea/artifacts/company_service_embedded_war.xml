@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="company-service-embedded:war">
+    <output-path>$PROJECT_DIR$/company-service-embedded/target</output-path>
+    <root id="archive" name="company-service-embedded-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="company-service-embedded:war exploded" />
+    </root>
+  </artifact>
+</component>

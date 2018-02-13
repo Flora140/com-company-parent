@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com-company-parent.iml" filepath="$PROJECT_DIR$/com-company-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/company-sam/company-sam.iml" filepath="$PROJECT_DIR$/company-sam/company-sam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/company-service/company-service.iml" filepath="$PROJECT_DIR$/company-service/company-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/company-service-embedded/company-service-embedded.iml" filepath="$PROJECT_DIR$/company-service-embedded/company-service-embedded.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+/company-service/target/
+/company-sam/target/
+/company-service-embedded/target/
+*/nb-configuration.xml
+*.iml
+*.project
